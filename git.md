@@ -10,7 +10,7 @@ typora-copy-images-to: images
 
 ### 准备阶段
 
-进入 Git 官网下载安装包，安装完成后，打开命令行工具，进入工作文件夹。<img src="/image-20210628112647736.png" alt="image-20210628112647736" style="zoom:80%;" />
+进入 Git 官网下载安装包，安装完成后，打开命令行工具，进入工作文件夹。<img src="E:\学习\markdown\study\hello-world\images\image-20210628112647736.png" alt="image-20210628112647736" style="zoom:80%;" />
 
 跳转到 E:\cq\git ，创建一个新的 demo 文件夹。
 
@@ -89,7 +89,7 @@ git checkout daily/0.0.1
 git status
 ```
 
-![image-20210628120111773](/image-20210628120111773.png)
+![image-20210628120111773](E:\学习\markdown\study\hello-world\images\image-20210628120111773.png)
 
 #### git add
 
@@ -101,7 +101,7 @@ git status
 git add README.md
 ```
 
-![image-20210628120219430](/image-20210628120219430.png)
+![image-20210628120219430](E:\学习\markdown\study\hello-world\images\image-20210628120219430.png)
 
 #### git commit
 

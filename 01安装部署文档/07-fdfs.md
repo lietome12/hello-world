@@ -231,9 +231,9 @@ storage服务器在每个虚拟磁盘路径下创建的两级目录，用于存�
 
 客户端上传文件后存储服务器将file_ID返回给客户端，此ID用于以后访问该文件的索引信息。文件索引信息包括：组名、虚拟磁盘路径、数据两级目录、文件名
 
-文件上传流程： ![image](https://note.youdao.com/yws/api/personal/file/3CF60C447AC8413E9FBFC31F01EAB615?method=download&shareKey=9ac7c6bd8e8a0a176f4108b050c05f73&ynotemdtimestamp=1625107000298)
+文件上传流程： ![image](../images/1625107000298.jpg)
 
-文件下载流程： ![image](https://note.youdao.com/yws/api/personal/file/B189358276B442C7A5A710EEF57523E2?method=download&shareKey=48fd90c53dd1a9acaaac0f585254f621&ynotemdtimestamp=1625107000298) ![image](https://note.youdao.com/yws/api/personal/file/B5570F1CA30B43BFB5C5A2EF486A7E52?method=download&shareKey=743b21a1ddf84196a33136aa8eaa6509&ynotemdtimestamp=1625107000298)
+文件下载流程： ![image](../images/1625107000212.jpg) ![image](https://note.youdao.com/yws/api/personal/file/B5570F1CA30B43BFB5C5A2EF486A7E52?method=download&shareKey=743b21a1ddf84196a33136aa8eaa6509&ynotemdtimestamp=1625107000298)
 
 storage server的7种状态:
 INIT : 初始化,尚未得到同步已有数据的源服务器
